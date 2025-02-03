@@ -43,7 +43,7 @@ To get started with the project, follow these steps:
  
 2. **Set up the database**:
    - Ensure MySQL is installed and running.
-   - Create a database named `banking_app`.
+   - Create a database named `banking_app`. To set it up, you can follow the guidelines [here](https://github.com/ibtisamops/nectar/blob/main/mysql/MySQL.md).
    - Update the `application.properties` file with your database credentials.
 
 3. **Build and run the application**:
